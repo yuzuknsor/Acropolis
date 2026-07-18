@@ -21,15 +21,4 @@ Latest Version: 24.3
 Release date: 19-Mar-2024
 ```
 
-[![1.1]][1]
-[![1.2]][2]
-
-[1.1]: https://lookimg.com/images/2023/03/21/QTvjcD.png (Discord)
-[1.2]: https://lookimg.com/images/2023/05/17/Q0iZ2U.png (Reddit)
-
-[1]: https://discord.com/invite/X9ZuegSM4N
-[2]: https://www.reddit.com/r/GenP
-
----
-
 <p align="center">Not affiliated with Adobe. For educational purposes only. Use at your own risk.</p>
